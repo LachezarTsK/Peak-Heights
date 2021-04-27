@@ -1,5 +1,3 @@
-package peakHeights;
-
 import java.util.LinkedList;
 import java.util.Arrays;
 
